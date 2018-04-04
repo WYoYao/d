@@ -1,0 +1,11 @@
+/* #222831 #393E46 #00ADB5 #EEEEEE */
+
+.layout {
+  display: flex;
+  flex: 1;
+  background: #eeeeee;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
