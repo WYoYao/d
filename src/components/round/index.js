@@ -47,6 +47,7 @@ export default class Round extends Component{
             <div style={{
                 opacity:isOpacity?1:0,
                 zIndex:isOpacity?0:-1,
+                
             }} className={styles.circle}>
                 <span ref="title">{this.props.title}</span>
             </div>
