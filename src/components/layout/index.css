@@ -3,9 +3,11 @@
 .layout {
   display: flex;
   flex: 1;
-  background: #eeeeee;
   height: 100%;
   width: 100%;
   align-items: center;
   justify-content: center;
+  /* 背景图片 */
+  /* background: url(../../assets/login/background.jpg) center /100% 100% no-repeat; */
 }
+
